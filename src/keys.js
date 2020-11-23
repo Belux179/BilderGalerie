@@ -1,5 +1,5 @@
 module.exports = {
   database:{
-    URI: 'mongodb://localhost:27017/Bildergalerie'
+    URI: 'mongodb://mongodb+srv://Bildergalerie:123@cluster0.u6sde.mongodb.net/Bildergalerie?retryWrites=true&w=majority'
   }
 }
