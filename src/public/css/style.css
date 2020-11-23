@@ -1,0 +1,15 @@
+/*GLOBAL*/
+body{
+  background-image: url('../img/fondo.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #ADABA8;
+}
+h1{
+  color: #ffffff;
+}
+.logo img{
+  width: 35%;
+}
